@@ -1,0 +1,14 @@
+{
+  "name": "swaglabs",
+  "version": "1.0.0",
+  "description": "Teste em site de compras",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Alex Nascimento",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
