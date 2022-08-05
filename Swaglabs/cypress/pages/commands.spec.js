@@ -1,7 +1,7 @@
 class commands {
     
     go(){
-        cy.visit('https://www.saucedemo.com/')
+        cy.visit('/')
     }
 
     menu(login){
